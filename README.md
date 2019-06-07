@@ -11,7 +11,7 @@ Manuscript at:https://www.nature.com/articles/s41598-018-36745-x
 The project explores several machine learning and deep learning models on features extracted from EHR for Cardiovascular disease prediction.
 
 Models include:
-*logistic regression, 
+* logistic regression, 
 * random forests, 
 * gradient boosting trees, 
 * convolutional neural networks (CNN) 
