@@ -1,0 +1,2 @@
+auc,average_precision,data_type,network,size_of_Batch
+0.7728 (+/- 0.0061),0.2385 (+/- 0.0184),benchmark,"{'units1': 8, 'units2': 4, 'units3': 4, 'dropout_rate1': 0.2, 'dropout_rate2': 0.1, 'dropout_rate3': 0.1, 'lr': 4e-05}",128
