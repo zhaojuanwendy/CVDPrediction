@@ -11,7 +11,7 @@ Manuscript at:https://www.nature.com/articles/s41598-018-36745-x
 The project explores several machine learning and deep learning models on features extracted from EHR for Cardiovascular disease prediction.
 
 Models include:
-*logistic regression, 
+* logistic regression, 
 * random forests, 
 * gradient boosting trees, 
 * convolutional neural networks (CNN) 
@@ -32,7 +32,8 @@ data.csv should be the input data contains features and class labels. X.npy is t
  
  src/tune_DNN.py, src/tune_CNN.py and src/tune_LSTM to run the cross validations on deep learning models.
  
- 
- 
 
 
+** Please cite our paper if you use the code **:
+
+Zhao J, Feng Q, Wu P, Lupu R, Wilke RA, Wells QS, Denny JC, Wei W-Q. Learning from Longitudinal Electronic Health Record and Genetic Data to Improve Cardiovascular Event Prediction. Scientific Reports. 2019; 9(1):717 doi:10.1038/s41598-018-36745-x 
